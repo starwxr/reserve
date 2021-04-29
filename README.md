@@ -9,7 +9,7 @@ https://github.com/redrumq/krowemoh/blob/8746e6868f5fc2aa0dc01d5bdb854f7418dd336
 
 网络图片：
 
-![avatar]()
+![avatar](https://ss1.bdstatic.com/70cFuXSh_Q1YnxGkpoWK1HF6hhy/it/u=1594310266,3704736101&fm=26&gp=0.jpg)
 
 
 
@@ -18,7 +18,7 @@ https://github.com/redrumq/krowemoh/blob/8746e6868f5fc2aa0dc01d5bdb854f7418dd336
 
 文件夹下的:
 
-![avatar]()
+![avatar](https://github.com/starwxr/reserve/blob/aaca68ad5e083080fd903a055999b471c89df645/src=http___n.sinaimg.cn_sinacn12_408_w1728h1080_20180825_1736-hicsiaw9596567.jpg&refer=http___n.sinaimg.jpg)
 
 
 
