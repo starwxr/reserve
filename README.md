@@ -2,7 +2,7 @@
 #### reserve
 
 跳转：
-https://github.com/starwxr/reserve/blob/f94b0f8926a2757f6aefa4db1cf5960e144051cf/might
+https://github.com/starwxr/reserve/blob/eed1418226f24d3d9e4ee6c4ffea9d25a7e7985d/mike
 
 ---
 
