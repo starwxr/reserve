@@ -2,7 +2,7 @@
 #### reserve
 
 跳转：
-https://github.com/redrumq/krowemoh/blob/8746e6868f5fc2aa0dc01d5bdb854f7418dd3366/test.md
+https://github.com/starwxr/reserve/blob/f94b0f8926a2757f6aefa4db1cf5960e144051cf/might
 
 ---
 
